@@ -17,7 +17,7 @@ Diese App zeigt, wie du mit React und TypeScript eine To-Do-Liste baust, die Auf
 
 Im Projektordner findest du die Datei `db.json` – darin werden die Aufgaben gespeichert.
 
-```bash
+
 npx json-server --watch db.json --port 3001
 Der JSON Server läuft dann unter:
 http://localhost:3001/tasks
