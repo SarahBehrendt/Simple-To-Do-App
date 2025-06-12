@@ -25,15 +25,11 @@ http://localhost:3001/tasks
 2. Frontend (React App) starten
 Installiere zuerst die Abhängigkeiten:
 
-bash
-Kopieren
-Bearbeiten
+
 npm install
 Starte danach die Entwicklungsumgebung:
 
-bash
-Kopieren
-Bearbeiten
+
 npm run dev
 Öffne dann im Browser:
 http://localhost:5173
